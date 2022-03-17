@@ -1,0 +1,6 @@
+#ejercicio 12
+Unidad_Pan = float(3.5);
+Cantidad_Panes = int(input("Inserte la cantidad de panes vendidos que no son del día: "));
+Pan_No_Dia = float(Unidad_Pan * 0.6);
+
+Precio_Pan = str(Unidad_Pan + "Euros");
